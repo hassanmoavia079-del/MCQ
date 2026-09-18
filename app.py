@@ -39,7 +39,7 @@ st.set_page_config(
 )
 
 # Current Gemini model. You can change this later if required.
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-3.6-flash"
 
 # Available timer choices in minutes.
 TIMER_OPTIONS = [1, 2, 5, 10, 15, 20, 30]
